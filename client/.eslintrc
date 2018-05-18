@@ -1,0 +1,17 @@
+{
+  parser: "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "prop-types": "error",
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"]
+}
