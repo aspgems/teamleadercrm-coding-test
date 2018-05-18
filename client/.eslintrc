@@ -9,7 +9,6 @@
     "react"
   ],
   "rules": {
-    "prop-types": "error",
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
   },
