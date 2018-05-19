@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://aspgems.github.io/teamleadercrm-coding-test-2",
   "scripts": {
     "build": "webpack --mode production",
     "lint": "eslint src/**/*.js",
